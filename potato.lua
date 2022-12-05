@@ -3,7 +3,7 @@ farming.register_plant("gardening:potato", {
 	harvest_description = ("Potato"),
 	paramtype2 = "meshoptions",
 	inventory_image = "gardening_potato_seed.png",
-	steps = 3,
+	steps = 4,
 	minlight = 13,
 	maxlight = default.LIGHT_MAX,
 	fertility = {"grassland"},
